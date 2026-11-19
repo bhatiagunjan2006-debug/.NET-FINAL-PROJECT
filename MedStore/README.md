@@ -1,3 +1,10 @@
+This project was developed collaboratively by the following team members:
+Student1:Gunjan Bhatia
+Enrollment No:92400103299
+student2:Winndy
+Enrollment no:92400103253
+student3:Mapalo
+Enrollment no:92400103187
 # MediStock · Medical Store Management System
 
 An ASP.NET Core MVC classroom application for the Semester 5 .NET Technologies practical. It runs without SQL Server and saves local records to an ignored JSON file under `App_Data`.
